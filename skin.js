@@ -1,7 +1,7 @@
 (async function() {
     // Configuration
-    const TOKEN = "your_token_goes_here"; // Replace with YOUR TOKEN. ONLY REPLACE THIS HERE. REMEMBER DO NOT SHARE THIS!
-    const SKIN_ID = "remlin"; // Change this to any skin ID you want
+    const TOKEN = "your_token_goes_here"; // Replace with YOUR TOKEN. ONLY REPLACE THIS. REMEMBER DO NOT SHARE THIS!
+    const SKIN_ID = "remlin"; // Change this to any skin ID you want. ONLY REPLACE THIS.
     
     // Validation
     if (TOKEN === "your_token_goes_here") {
