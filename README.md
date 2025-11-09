@@ -1,6 +1,6 @@
 # MinibloxSkinConsoleCommand
 
-Console-based skin changer for Miniblox. Use responsibly and only on your own account.
+Console-based skin changer for Miniblox. Use responsibly and only on your own account. Use both of these in the console! 
 
 ## ⚠️ Important WARNINGS
 
@@ -11,7 +11,7 @@ Console-based skin changer for Miniblox. Use responsibly and only on your own ac
 
 ## Usage
 
-### Step 1: Get Your Token!
+### Step 1: Get Your Token first!
 
 1. Open Miniblox in your browser
 2. Press `F12` to open Developer Console
