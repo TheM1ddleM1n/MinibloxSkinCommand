@@ -1,4 +1,4 @@
-# MinibloxSkinCommand
+# MinibloxSkinConsoleCommand
 
 Console-based skin changer for Miniblox. Use responsibly and only on your own account.
 
@@ -28,7 +28,7 @@ Console-based skin changer for Miniblox. Use responsibly and only on your own ac
 
 ## 📝 Available Skin IDs
 
-You can change one of the 8 `SKIN_ID` variables to any of these:
+You can change one of the 9 `SKIN_ID` variables to any of these:
 - `"remlin"`
 - `"cat"`
 - `"ethan"`
